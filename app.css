@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: darkred;
+    background-color: olive;
 
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 25rem;
 }
 
 .letter {
